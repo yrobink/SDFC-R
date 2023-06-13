@@ -1,0 +1,9 @@
+*.so
+*.o
+.DS_Store
+notebook/.ipynb_checkpoints
+*.swp
+RcppExports.cpp
+*.Rd
+*.tar.gz
+*.Rcheck
